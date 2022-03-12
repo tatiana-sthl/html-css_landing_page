@@ -1,3 +1,4 @@
-# web-platform-ecdn9y
+# The Odin Project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-ecdn9y)
+Landing_page
+https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page
